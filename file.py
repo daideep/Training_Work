@@ -8,7 +8,7 @@
 # read()    - read all the data
 # read(1)   - read 1 character
 # readline  - read 1 line
-# readlines - read all lines in a list
+# readlines - read all lines - Return [as list]
 
 f = open('test.txt','a+')
 
